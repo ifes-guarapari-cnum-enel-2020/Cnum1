@@ -33,7 +33,7 @@ Edite o arquivo de programação “main.sce”.
 
 **Github**
 
-Faça o fork do projeto para sua conta. Atualize a configuração do actions.
+Faça o fork do projeto para sua conta.
 
 *git clone USERNAME/LINK.git*
 
